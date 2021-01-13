@@ -1,3 +1,3 @@
-# machine learning
+# Machine Learning
 
-classic machine learning examples
+classic examples
